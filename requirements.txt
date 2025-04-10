@@ -1,0 +1,7 @@
+whisper
+fpdf
+transformers
+torch
+opencv-python
+pytesseract
+dateparser
